@@ -11,6 +11,7 @@ The resulting code and images are located in the /Results directory in this repo
 If you are running the scripts, the following assumptions must be adhered:
 
 a. Locate the plot*.r file in your working directory.
+
 b. The unzipped data file (household_power_consumption.txt) must be located in this working directory.
 
 You can run the scripts one at a time.
